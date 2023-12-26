@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: petstore-webhook
-  description: The petstore webhook API
+  description: The petstore webhook API 1
   tags:
     - store
     - rest
